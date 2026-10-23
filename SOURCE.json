@@ -1,0 +1,57 @@
+{
+  "source_repository": "https://github.com/theticketfairy/agent-skills",
+  "source_commit": "186567788b4881e5c37fadc69132756dd3c02bda",
+  "uncommitted_source": false,
+  "skills": [
+    {
+      "name": "start-organising-events",
+      "source_path": "skills/start-organising-events/SKILL.md",
+      "sha256": "4ead198369892a3c75e9752e0081870cb84bc4865605f3656137b312b8f7c4ec"
+    },
+    {
+      "name": "set-up-event-tickets",
+      "source_path": "skills/set-up-event-tickets/SKILL.md",
+      "sha256": "8d32a229dffb038146570996cd1c16d5a134c7d03b4b123a25ae310361041f89"
+    },
+    {
+      "name": "follow-event-type-playbooks",
+      "source_path": "skills/follow-event-type-playbooks/SKILL.md",
+      "sha256": "bee917734d50cf2f686c4f17151982fad8f239e3bfccb79e62744eebe64efe78"
+    },
+    {
+      "name": "run-event-workflows",
+      "source_path": "skills/run-event-workflows/SKILL.md",
+      "sha256": "735e5973106c6f9a9a54aef917918d2329113ea08a12557963a256c2c4a613ba"
+    },
+    {
+      "name": "sell-passes-and-extras",
+      "source_path": "skills/sell-passes-and-extras/SKILL.md",
+      "sha256": "3309438ffc85a20134b814e2baac86a1a29860df43834c0033daa842e563e124"
+    },
+    {
+      "name": "manage-venue-pages",
+      "source_path": "skills/manage-venue-pages/SKILL.md",
+      "sha256": "61e41d4f86af482de68107fd008396dab1df3458c80bd0509d407d36d5257cbb"
+    },
+    {
+      "name": "manage-brand-and-team",
+      "source_path": "skills/manage-brand-and-team/SKILL.md",
+      "sha256": "658b4587acf9b9e491e005328b17dae25199814f1f85d4c4b3ceba7eee683865"
+    },
+    {
+      "name": "book-and-advance-artists",
+      "source_path": "skills/book-and-advance-artists/SKILL.md",
+      "sha256": "52b43d6d61e50982933a9c959f1ff4fa6166a51d3c6f8d39a6c402cfa8c277e5"
+    },
+    {
+      "name": "book-hotels-and-travel-for-the-team",
+      "source_path": "skills/book-hotels-and-travel-for-the-team/SKILL.md",
+      "sha256": "00afb94e4177891e90414b51a587cf8eaa09c64d5d75d2659bb5b2063bb03c81"
+    },
+    {
+      "name": "plan-the-running-order-and-show-day",
+      "source_path": "skills/plan-the-running-order-and-show-day/SKILL.md",
+      "sha256": "db302e0e1c85a6c0637816040784805489ad1b490357e12ac3a9dafaeec44884"
+    }
+  ]
+}
